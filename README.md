@@ -1,1 +1,3 @@
-<h1>Learning git <h1>
+# Heading 1
+# Heading 2
+# Heading 3
